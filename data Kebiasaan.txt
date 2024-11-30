@@ -1,0 +1,10 @@
+Kebiasaan: Makan
+Deskripsi: makan
+Hari: 4
+Sudah dilaksanakan? Sudah
+====================
+Kebiasaan: Ngoding
+Deskripsi: Ngoding
+Hari: 5
+Sudah dilaksanakan? Sudah
+====================
