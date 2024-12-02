@@ -1,0 +1,40 @@
+TopUp: 100000
+Tabung: 0
+Total Saldo: 100000
+====================
+TopUp: 5000
+Tabung: 5000
+Total Saldo: 105000
+====================
+TopUp: 5000
+Tabung: 10000
+Total Saldo: 110000
+====================
+Yang anda beli: Makan
+Jumlah Pengeluaran: 10000
+Total Saldo: 100000
+====================
+TopUp: 10000
+Tabung: 10000
+Total Saldo: 110000
+====================
+Yang anda beli: Makan
+Jumlah Pengeluaran: 10000
+Total Saldo: 100000
+====================
+Yang anda beli: Minum
+Jumlah Pengeluaran: 5000
+Total Saldo: 95000
+====================
+TopUp: 45000
+Tabung: 15000
+Total Saldo: 140000
+====================
+TopUp: 10000
+Tabung: 15000
+Total Saldo: 150000
+====================
+Yang anda beli: Beli Baju
+Jumlah Pengeluaran: 50000
+Total Saldo: 100000
+====================
